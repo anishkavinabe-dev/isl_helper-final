@@ -1,8 +1,8 @@
 streamlit
-streamlit-webrtc
-mediapipe
-opencv-python-headless
-numpy
+streamlit-webrtc==0.47.1
+mediapipe==0.10.9
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
 scikit-learn
 joblib
-av
+av==10.0.0
